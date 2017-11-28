@@ -1,0 +1,7 @@
+div.jumbotron{
+  margin-top: 100px;
+  background: #141E30; 
+  background: -webkit-linear-gradient(to left, #141E30 , #9caece); 
+  background: linear-gradient(to left, #141E30 , #9caece); 
+  color:black;
+}
